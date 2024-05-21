@@ -21,7 +21,8 @@ Data Scientist
 <img align="left" alt="MySQL" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original-wordmark.svg" />
 <img align="left" alt="Jupyter" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/jupyter/jupyter-original-wordmark.svg" />
 <img align="left" alt="Streamlit" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/streamlit/streamlit-plain-wordmark.svg" />
-
+<br>
+<br>
 
 ### Badges
 
