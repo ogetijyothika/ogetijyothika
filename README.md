@@ -7,9 +7,9 @@ Data Scientist
 
 <i>I'm a Data Scientist skilled in transforming raw data into strategic assets that support data-driven decision-making.</i>
 
-* 🧠  I'm currently learning **<code>Mlops</code>, <code>Deep Learning</code>, <code>Artificial Intelligence</code>**
+* 🧠 I'm currently learning **<code>Mlops</code>, <code>Deep Learning</code>, <code>Artificial Intelligence</code>**
 * 💬 Ask me about **<code>Python</code>, <code>Machine Learning</code>**
-* 🤝  I'm open to collaborating on Machine Learning Projects
+* 🤝 I'm open to collaborating on Machine Learning Projects
 * 📫 How to reach me **<code><a href="https://www.linkedin.com/in/jyothikaogeti">LinkedIn</a></code>** **<code>[Gmail](mailto:ogetijyothika2002@gmail.com)</code>** **<code>
 
 ### 🧰 Languages and Tools
@@ -21,7 +21,7 @@ Data Scientist
 <img align="left" alt="MySQL" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original-wordmark.svg" />
 <img align="left" alt="Jupyter" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/jupyter/jupyter-original-wordmark.svg" />
 <img align="left" alt="Streamlit" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/streamlit/streamlit-plain-wordmark.svg" />
-<br>
+
 
 ### Badges
 
