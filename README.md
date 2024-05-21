@@ -11,26 +11,15 @@ Data Scientist
 * 🤝  I'm open to collaborating on Machine Learning Projects
 
 ### 🧰 Languages and Tools
-## Skills
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning"/>
-  <img src="https://img.shields.io/badge/Data%20Visualization-0C8EC7?style=for-the-badge&logo=tableau&logoColor=white" alt="Data Visualization"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-</p>
-
-
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg"/>
-<img align="left" alt="Scikit-Learn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/scikitlearn.svg"/>
-<img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pandas.svg"/>
-<img align="left" alt="NumPy" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/numpy.svg"/>
-<img align="left" alt="Matplotlib" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/matplotlib.svg"/>
-<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postgresql.svg"/>
-
-
-
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original-wordmark.svg" />
+<img align="left" alt="scikitlearn" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/scikitlearn/scikitlearn-original.svg"/>
+<img align="left" alt="Streamlit" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/streamlit/streamlit-original-wordmark.svg" />
+<img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/pandas/pandas-original-wordmark.svg" />
+<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original-wordmark.svg" />
+<img align="left" alt="Matplotlib" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/matplotlib/matplotlib-original-wordmark.svg" />
+<img align="left" alt="Jupyter" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/jupyter/jupyter-original-wordmark.svg" />
+<img align="left" alt="Numpy" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/numpy/numpy-original-wordmark.svg" />
 
 ### Socials
 
