@@ -10,6 +10,14 @@ Data Scientist
 * 🧠  I'm currently learning **<code>Mlops</code>, <code>Deep Learning</code>, <code>Artificial Intelligence</code>**
 * 🤝  I'm open to collaborating on Machine Learning Projects
 
+### 🧰 Languages and Tools
+
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" alt="Python" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/r.svg" alt="R" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tensorflow.svg" alt="Machine Learning" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tableau.svg" alt="Data Visualization" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postgresql.svg" alt="SQL" width="40" height="40"/>
+
 
 ### Socials
 
