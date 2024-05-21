@@ -11,7 +11,6 @@ Data Scientist
 * 💬 Ask me about **<code>Python</code>, <code>Machine Learning</code>**
 * 🤝 I'm open to collaborating on Machine Learning Projects
 * 📫 How to reach me **<code><a href="https://www.linkedin.com/in/jyothikaogeti">LinkedIn</a></code>** **<code>[Gmail](mailto:ogetijyothika2002@gmail.com)</code>**
-<br>
 
 ### 🧰 Languages and Tools
 <div style="display: flex; flex-wrap: wrap; align-items: center;">
@@ -23,7 +22,6 @@ Data Scientist
 <img align="left" alt="MySQL" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original-wordmark.svg" />
 <img align="left" alt="Jupyter" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/jupyter/jupyter-original-wordmark.svg" />
 <img align="left" alt="Streamlit" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/streamlit/streamlit-plain-wordmark.svg" />
-  
-<br>
+<br />
 
 <a href="http://www.github.com/ogetijyothika"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ogetijyothika&stroke=000000&background=ffffff&ring=f97316&fire=f97316&currStreakNum=000000&currStreakLabel=f97316&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
