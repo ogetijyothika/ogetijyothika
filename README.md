@@ -5,10 +5,9 @@ Data Scientist
 --------------
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ogetijyothika&label=Profile%20views&color=0e75b6&style=flat" alt="ogetijyothika" /> </p>
 
-I'm a Data Scientist skilled in transforming raw data into strategic assets that support data-driven decision-making.
+<i>I'm a Data Scientist skilled in transforming raw data into strategic assets that support data-driven decision-making.</i>
 
-* 🌍  I'm based in Hyderabad
-* 🧠  I'm learning MLOps, Deep Learning, Natural Language Processing
+* 🧠  I'm currently learning **<code>Mlops</code>, <code>Deep Learning</code>, <code>Artificial Intelligence</code>**
 * 🤝  I'm open to collaborating on Machine Learning Projects
 
 
