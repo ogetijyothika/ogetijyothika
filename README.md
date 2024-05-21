@@ -11,12 +11,15 @@ Data Scientist
 * 🤝  I'm open to collaborating on Machine Learning Projects
 
 ### 🧰 Languages and Tools
+## Skills
 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" alt="Python" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/r.svg" alt="R" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tensorflow.svg" alt="Machine Learning" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tableau.svg" alt="Data Visualization" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postgresql.svg" alt="SQL" width="40" height="40"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning"/>
+  <img src="https://img.shields.io/badge/Data%20Visualization-0C8EC7?style=for-the-badge&logo=tableau&logoColor=white" alt="Data Visualization"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+</p>
 
 
 ### Socials
