@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Data Scientist
 --------------
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=swethaogeti&label=Profile%20views&color=0e75b6&style=flat" alt="swethaogeti" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ogetijyothika&label=Profile%20views&color=0e75b6&style=flat" alt="ogetijyothika" /> </p>
 
 I'm a Data Scientist skilled in transforming raw data into strategic assets that support data-driven decision-making.
 
