@@ -13,8 +13,9 @@ Data Scientist
 * 📫 How to reach me **<code><a href="https://www.linkedin.com/in/jyothikaogeti">LinkedIn</a></code>** **<code>[Gmail](mailto:ogetijyothika2002@gmail.com)</code>** **<code>
 
 ### 🧰 Languages and Tools
+<div style="display: flex; flex-wrap: wrap; align-items: center;">
 <img align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original-wordmark.svg" />
-<img align="left" alt="scikitlearn" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/scikitlearn/scikitlearn-original.svg"/>
+<img align="left" alt="scikitlearn" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/scikitlearn/scikitlearn-original.svg" />
 <img align="left" alt="Pandas" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/pandas/pandas-original-wordmark.svg" />
 <img align="left" alt="Numpy" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/numpy/numpy-original-wordmark.svg" />
 <img align="left" alt="Matplotlib" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/matplotlib/matplotlib-original-wordmark.svg" />
@@ -23,8 +24,6 @@ Data Scientist
 <img align="left" alt="Streamlit" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/streamlit/streamlit-plain-wordmark.svg" />
 <br>
 <br>
-
-### Badges
 
 <b>My GitHub Stats</b>
 
