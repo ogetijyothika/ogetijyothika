@@ -25,5 +25,7 @@ Data Scientist
 <br>
   
 ### 📊 GitHub Stats
-<a href="http://www.github.com/ogetijyothika"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ogetijyothika&stroke=000000&background=ffffff&ring=f97316&fire=f97316&currStreakNum=000000&currStreakLabel=f97316&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
+<a href="http://www.github.com/ogetijyothika">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ogetijyothika&stroke=000000&background=ffffff&ring=f97316&fire=f97316&currStreakNum=000000&currStreakLabel=f97316&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" />
+</a>
 
